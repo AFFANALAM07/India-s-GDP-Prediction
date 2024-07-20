@@ -1,1 +1,24 @@
-# India-s-GDP-Prediction
+# GDP Prediction for India
+
+## Overview
+This project uses linear regression to predict the GDP of India based on historical data. The web application allows users to input a year and receive a predicted GDP value.
+
+## Features
+- **Predict GDP**: Input a year to get the predicted GDP value.
+- **Interactive Web Interface**: Built with Flask and styled using CSS.
+- **Data Visualization**: Display prediction results and model performance metrics.
+
+## Setup and Installation
+
+### Prerequisites
+- Python 3.x
+- Flask
+- pandas
+- scikit-learn
+- numpy
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repository.git
+   cd your-repository
